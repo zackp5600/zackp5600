@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zackp5600
-- 👀 I’m interested in artificail intelligence, Hackathons, Blockchains, and web development
+- 👀 I’m interested in artifical intelligence, Hackathons, Blockchains, and web development
 - 🌱 I’m currently learning about AI, and Blockchains
 - 💞️ I’m looking to collaborate on Hackathons
 - 📫 How to reach me through my email "zackp5600@gmail.com"
